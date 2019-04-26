@@ -1,0 +1,11 @@
+<div class="form-main-input">
+		<form class="form_inputs" method="post">
+
+			{% csrf_token %}
+			{{ form.as_p }}
+
+			<div class="form-action">
+			<button class="form-button" type="submit">Отправить</button>
+			</div>
+
+</form>

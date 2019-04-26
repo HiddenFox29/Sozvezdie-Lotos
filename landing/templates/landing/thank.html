@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+	{% block content %}
+
+		<section class="contact_form">
+
+				<div class="form-page">
+
+					<div class="wrapper_page_thank">
+
+							<h2>Лотекс ЭКО Строй</h2>
+							<span>Спасибо.<br>Ваше письмо отправлено<br>Наши специалисты свяжутся с вами в блежайшее время</span>
+
+							<div class="back-button">
+
+								<a href="{% url 'index_url' %}">На главную</a>
+
+							</div>
+
+					</div>
+
+				</div>
+		</section>
+
+		{% include "landing/includes/footer.html" %}
+
+	{% endblock content %}

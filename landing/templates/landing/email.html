@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+			<section class="contact_form">
+
+									<div class="form-page">
+
+
+
+										<div class="form-main-input">
+											<form class="form_inputs" method="post">
+
+												{% csrf_token %}
+												{{ form.as_p }}
+
+
+												<div class="form-action">
+													<button class="form-button" type="submit">Отправить</button>
+												</div>
+
+											</form>
+											
+										</div>
+									</div>
+			</section>
+			{% include "landing/includes/footer.html" %}
+
+{% endblock content %}
