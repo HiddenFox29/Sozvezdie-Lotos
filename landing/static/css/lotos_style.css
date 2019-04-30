@@ -1059,8 +1059,8 @@ footer p{
 	    font-size: 30px;
 	    width: 40%;}
 
-	header{
-		display: none;
+	.form-main-text{
+		font-family: sans-serif;
 	}
 }
 
@@ -1278,8 +1278,8 @@ footer p{
 	    font-size: 30px;
 	    width: 40%;}
 
-	header{
-		display: none;
+	.form-main-text{
+		font-family: sans-serif;
 	}
 }
 
@@ -1498,8 +1498,8 @@ footer p{
 	    font-size: 30px;
 	    width: 40%;}
 
-	header{
-		display: none;
+	.form-main-text{
+		font-family: sans-serif;
 	}
 
 
@@ -1720,8 +1720,8 @@ footer p{
 	    font-size: 30px;
 	    width: 40%;}
 
-	header{
-		display: none;
+	.form-main-text{
+		font-family: sans-serif;
 	}
 
 
