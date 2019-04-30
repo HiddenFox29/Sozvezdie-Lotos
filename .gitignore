@@ -109,4 +109,3 @@ venv.bak/
 #Database
 *.sqlite3
 
-local_settings.py
