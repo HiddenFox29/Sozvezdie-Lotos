@@ -851,6 +851,11 @@ footer p{
 		margin:0 11.8%;
 	}
 
+	.main_about p{
+		font-size: 50px;
+		text-align: center;
+	}
+
 	.main_about p.we-do{
 		font-size: 50px;
 		text-align: center;
@@ -1068,6 +1073,11 @@ footer p{
 	.wrapper{
 		width: 80%;
 		margin:0 11.8%;
+	}
+	
+	.main_about p{
+		font-size: 50px;
+		text-align: center;
 	}
 
 	.main_about p.we-do{
@@ -1290,6 +1300,11 @@ footer p{
 		margin:0 11.8%;
 	}
 
+	.main_about p{
+		font-size: 50px;
+		text-align: center;
+	}
+
 	.main_about p.we-do{
 		font-size: 50px;
 		text-align: center;
@@ -1510,6 +1525,11 @@ footer p{
 	.wrapper{
 		width: 80%;
 		margin:0 11.8%;
+	}
+
+	.main_about p{
+		font-size: 50px;
+		text-align: center;
 	}
 
 	.main_about p.we-do{
