@@ -620,14 +620,12 @@ td{
 }
 
 .form-main-text{
-    width: 75%;
+    width: 80%;
     text-align: justify;
-    margin-left: 50px;
-    margin-right: 50px;
     line-height: 1;
     color: #000000;
-    font-size: 15px;
-    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
     margin-bottom: 35px;
 }
@@ -855,12 +853,12 @@ footer p{
 	}
 
 	.main_about p{
-		font-size: 40px;
+		font-size: 50px;
 		text-align: center;
 	}
 
 	.main_about p.we-do{
-		font-size: 40px;
+		font-size: 52px;
 		text-align: center;
 		
 	}
@@ -1060,7 +1058,6 @@ footer p{
 	    width: 40%;}
 
 	.form-main-text{
-		font-family: sans-serif;
 		font-size: 24px;
 	}
 }
@@ -1075,12 +1072,12 @@ footer p{
 	}
 
 	.main_about p{
-		font-size: 40px;
+		font-size: 50px;
 		text-align: center;
 	}
 
 	.main_about p.we-do{
-		font-size: 40px;
+		font-size: 52px;
 		text-align: center;
 		
 	}
@@ -1280,7 +1277,6 @@ footer p{
 	    width: 40%;}
 
 	.form-main-text{
-		font-family: sans-serif;
 		font-size: 24px;
 	}
 }
@@ -1296,12 +1292,12 @@ footer p{
 	}
 
 	.main_about p{
-		font-size: 40px;
+		font-size: 50px;
 		text-align: center;
 	}
 
 	.main_about p.we-do{
-		font-size: 40px;
+		font-size: 52px;
 		text-align: center;
 		
 	}
@@ -1501,7 +1497,6 @@ footer p{
 	    width: 40%;}
 
 	.form-main-text{
-		font-family: sans-serif;
 		font-size: 24px;
 	}
 
@@ -1519,12 +1514,12 @@ footer p{
 	}
 
 	.main_about p{
-		font-size: 40px;
+		font-size: 50px;
 		text-align: center;
 	}
 
 	.main_about p.we-do{
-		font-size: 40px;
+		font-size: 52px;
 		text-align: center;
 		
 	}
@@ -1724,7 +1719,6 @@ footer p{
 	    width: 40%;}
 
 	.form-main-text{
-		font-family: sans-serif;
 		font-size: 24px;
 	}
 
