@@ -892,6 +892,10 @@ footer p{
 	    margin: 0 8%;
 	    text-align: left;}
 
+	.text-p-about p {
+		font-size: 24px;
+	}
+
 
 	.number{
 		font-size: 31px;
@@ -1104,9 +1108,10 @@ footer p{
 	}
 
 	.partners-form {
-	    padding-top: 5px;
-	    font-size: 30px;
-	    width: 40%;}
+	    padding-top: 13px;
+	    font-size: 40px;
+	    width: 40%;
+	    height: 110px;}
 
 	.form-main-text{
 		font-size: 24px;
@@ -1142,6 +1147,10 @@ footer p{
 	    margin: 0 8%;
 	    text-align: left;}
 
+	.text-p-about p {
+		font-size: 24px;
+	}
+
 
 	.number{
 		font-size: 31px;
@@ -1354,9 +1363,10 @@ footer p{
 	}
 
 	.partners-form {
-	    padding-top: 5px;
-	    font-size: 30px;
-	    width: 40%;}
+	    padding-top: 13px;
+	    font-size: 40px;
+	    width: 40%;
+	    height: 110px;}
 
 	.form-main-text{
 		font-size: 24px;
@@ -1393,6 +1403,10 @@ footer p{
 	    margin: 0 8%;
 	    text-align: left;}
 
+	.text-p-about p {
+		font-size: 24px;
+	}
+
 
 	.number{
 		font-size: 31px;
@@ -1605,9 +1619,10 @@ footer p{
 	}
 
 	.partners-form {
-	    padding-top: 5px;
-	    font-size: 30px;
-	    width: 40%;}
+	    padding-top: 13px;
+	    font-size: 40px;
+	    width: 40%;
+	    height: 110px;}
 
 	.form-main-text{
 		font-size: 24px;
@@ -1644,6 +1659,10 @@ footer p{
 	    margin: 0 8%;
 	    text-align: left;}
 
+	.text-p-about p {
+		font-size: 24px;
+	}
+
 
 	.number{
 		font-size: 31px;
@@ -1856,9 +1875,10 @@ footer p{
 	}
 
 	.partners-form {
-	    padding-top: 5px;
-	    font-size: 30px;
-	    width: 40%;}
+	    padding-top: 13px;
+	    font-size: 40px;
+	    width: 40%;
+	    height: 110px;}
 
 	.form-main-text{
 		font-size: 24px;
