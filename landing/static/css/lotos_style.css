@@ -872,6 +872,10 @@ footer p{
 		margin:0 11.8%;
 	}
 
+	main h2:after{
+		margin-bottom: 50px;
+	}
+
 	.main_about p{
 		font-size: 50px;
 		text-align: center;
@@ -904,6 +908,7 @@ footer p{
 
 	.main-applying p{
 		font-size: 50px;
+		margin-top: 20px;
 	}
 
 	.main-applying h2{
@@ -930,6 +935,7 @@ footer p{
 	.price span{
 		font-size: 50px;
 		text-align: center;
+		margin-top: 20px;
 	}
 
 	.price h2{
@@ -961,7 +967,7 @@ footer p{
 
 	.price-card{
 		width: 80%;
-		margin-bottom: 30px;}
+		margin-bottom: 45px;}
 
      .name_price {
     font-size: 50px;}
@@ -981,6 +987,7 @@ footer p{
 
 	.sertificate span{
 		font-size: 50px;
+		margin-top: 50px;
 	}
 
 	.sertificate h2{
@@ -1057,7 +1064,7 @@ footer p{
 
 	.applying{
 		width: 80%;
-		margin-bottom: 30px;}
+		margin-bottom: 45px;}
 
 
 	.contact-logo{
@@ -1130,6 +1137,10 @@ footer p{
 		margin:0 11.8%;
 	}
 
+	main h2:after{
+		margin-bottom: 50px;
+	}
+
 	.main_about p{
 		font-size: 50px;
 		text-align: center;
@@ -1162,6 +1173,7 @@ footer p{
 
 	.main-applying p{
 		font-size: 50px;
+		margin-top: 20px;
 	}
 
 	.main-applying h2{
@@ -1188,6 +1200,7 @@ footer p{
 	.price span{
 		font-size: 50px;
 		text-align: center;
+		margin-top: 20px;
 	}
 
 	.price h2{
@@ -1219,7 +1232,7 @@ footer p{
 
 	.price-card{
 		width: 80%;
-		margin-bottom: 30px;}
+		margin-bottom: 45px;}
 
      .name_price {
     font-size: 50px;}
@@ -1239,6 +1252,7 @@ footer p{
 
 	.sertificate span{
 		font-size: 50px;
+		margin-top: 50px;
 	}
 
 	.sertificate h2{
@@ -1315,7 +1329,7 @@ footer p{
 
 	.applying{
 		width: 80%;
-		margin-bottom: 30px;}
+		margin-bottom: 45px;}
 
 
 	.contact-logo{
@@ -1384,9 +1398,13 @@ footer p{
 /*iphone 6/7/8*/
  @media screen and (device-aspect-ratio: 375/667) {
 
-	.wrapper{
+.wrapper{
 		width: 80%;
 		margin:0 11.8%;
+	}
+
+	main h2:after{
+		margin-bottom: 50px;
 	}
 
 	.main_about p{
@@ -1421,6 +1439,7 @@ footer p{
 
 	.main-applying p{
 		font-size: 50px;
+		margin-top: 20px;
 	}
 
 	.main-applying h2{
@@ -1447,6 +1466,7 @@ footer p{
 	.price span{
 		font-size: 50px;
 		text-align: center;
+		margin-top: 20px;
 	}
 
 	.price h2{
@@ -1478,7 +1498,7 @@ footer p{
 
 	.price-card{
 		width: 80%;
-		margin-bottom: 30px;}
+		margin-bottom: 45px;}
 
      .name_price {
     font-size: 50px;}
@@ -1498,6 +1518,7 @@ footer p{
 
 	.sertificate span{
 		font-size: 50px;
+		margin-top: 50px;
 	}
 
 	.sertificate h2{
@@ -1574,7 +1595,7 @@ footer p{
 
 	.applying{
 		width: 80%;
-		margin-bottom: 30px;}
+		margin-bottom: 45px;}
 
 
 	.contact-logo{
@@ -1648,6 +1669,10 @@ footer p{
 		margin:0 11.8%;
 	}
 
+	main h2:after{
+		margin-bottom: 50px;
+	}
+
 	.main_about p{
 		font-size: 50px;
 		text-align: center;
@@ -1680,6 +1705,7 @@ footer p{
 
 	.main-applying p{
 		font-size: 50px;
+		margin-top: 20px;
 	}
 
 	.main-applying h2{
@@ -1706,6 +1732,7 @@ footer p{
 	.price span{
 		font-size: 50px;
 		text-align: center;
+		margin-top: 20px;
 	}
 
 	.price h2{
@@ -1737,7 +1764,7 @@ footer p{
 
 	.price-card{
 		width: 80%;
-		margin-bottom: 30px;}
+		margin-bottom: 45px;}
 
      .name_price {
     font-size: 50px;}
@@ -1757,6 +1784,7 @@ footer p{
 
 	.sertificate span{
 		font-size: 50px;
+		margin-top: 50px;
 	}
 
 	.sertificate h2{
@@ -1833,7 +1861,7 @@ footer p{
 
 	.applying{
 		width: 80%;
-		margin-bottom: 30px;}
+		margin-bottom: 45px;}
 
 
 	.contact-logo{
