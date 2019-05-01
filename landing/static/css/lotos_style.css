@@ -136,18 +136,35 @@ a.act:active{
 	font-family: 'Montserrat', sans-serif, cursive;
 	font-size: 24px;
 	color: #333333;
-	margin-top: 90px;
-	margin-bottom: 25px;
+	margin-bottom: 10px;
 
 }
 
-.main_about h2{
-	text-transform: uppercase;
-	font-family:'Montserrat', sans-serif;
-	font-size: 30px;
-	font-weight: bold;
-	color: #000000; 
+.main_about h2 {
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #000000;
+    margin-top: 30px;
 }
+
+.main_about{
+	margin-top: 100px;
+}
+
+.text-p-about{
+	margin: 0 15%;
+	text-align: justify;
+}
+
+.text-p-about p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	color: #010101;
+	margin-bottom: 30px;
+}
+
 main h2:after{
 	content:"";
 	display: block;
@@ -252,8 +269,7 @@ main h2:after{
 
 .applying img{
 	width: 100%;
-	border-top-left-radius: 5%;
-	border-top-right-radius: 5%;
+	border-radius: 20px;
 }
 .applying:hover{
 	-webkit-transform: scale(1.08);
@@ -280,8 +296,8 @@ main h2:after{
     -ms-flex-align: center;
     align-items: center;
     width: 30%;
-	border: 2px solid #777b8b;
-	border-radius: 5%;
+	border: 1px solid #777b8b;
+	border-radius: 20px;
 	-webkit-transition: all 0.3s cubic-bezier(0.4, 0, 1, 1) 0s;
 	-o-transition: all 0.3s cubic-bezier(0.4, 0, 1, 1) 0s;
 	transition: all 0.3s cubic-bezier(0.4, 0, 1, 1) 0s;
@@ -352,7 +368,7 @@ main h2:after{
     align-items: center;
     width: 30%;
     border: 1px solid #777b8b;
-    border-radius: 5%;
+    border-radius: 20px;
     background: rgba(240, 248, 255, 0.38);
     margin-bottom: 96px;
     -webkit-transition: all 0.3s cubic-bezier(0.4, 0, 1, 1) 0s;
@@ -843,6 +859,11 @@ footer p{
 
 
 
+
+
+
+
+
 /*iphone x*/
 @media only screen and (device-width : 375px) and (device-height : 812px) and (-webkit-device-pixel-ratio : 3) {
 
@@ -867,6 +888,11 @@ footer p{
 		
 	}
 
+	.text-p-about {
+	    margin: 0 8%;
+	    text-align: left;}
+
+
 	.number{
 		font-size: 31px;
 		padding: 10px;
@@ -889,6 +915,14 @@ footer p{
     	        box-shadow: none;
 	}
 
+	.main-applying p.prof {
+	    margin-bottom: 20px;
+	    font-size: 40px;}
+
+	.main-applying p.name {
+	    font-size: 40px;
+		font-weight: 600;}
+
 	.price span{
 		font-size: 50px;
 		text-align: center;
@@ -906,6 +940,22 @@ footer p{
     	-webkit-box-shadow: none;
     	        box-shadow: none;
     }
+
+     .name_price {
+    font-size: 50px;}
+
+    .name-material{
+    	font-size: 40px;}
+
+    .price_number{
+    	padding: 0;}
+
+    .price_number p{
+    	font-size: 60px;}
+
+    .price-description{
+    	font-size: 50px;
+    	line-height: 60px;}
 
 	.sertificate span{
 		font-size: 50px;
@@ -1074,7 +1124,7 @@ footer p{
 		width: 80%;
 		margin:0 11.8%;
 	}
-	
+
 	.main_about p{
 		font-size: 50px;
 		text-align: center;
@@ -1090,6 +1140,11 @@ footer p{
 		text-align: center;
 		
 	}
+
+	.text-p-about {
+	    margin: 0 8%;
+	    text-align: left;}
+
 
 	.number{
 		font-size: 31px;
@@ -1113,6 +1168,14 @@ footer p{
     	        box-shadow: none;
 	}
 
+	.main-applying p.prof {
+	    margin-bottom: 20px;
+	    font-size: 40px;}
+
+	.main-applying p.name {
+	    font-size: 40px;
+		font-weight: 600;}
+
 	.price span{
 		font-size: 50px;
 		text-align: center;
@@ -1130,6 +1193,22 @@ footer p{
     	-webkit-box-shadow: none;
     	        box-shadow: none;
     }
+
+     .name_price {
+    font-size: 50px;}
+
+    .name-material{
+    	font-size: 40px;}
+
+    .price_number{
+    	padding: 0;}
+
+    .price_number p{
+    	font-size: 60px;}
+
+    .price-description{
+    	font-size: 50px;
+    	line-height: 60px;}
 
 	.sertificate span{
 		font-size: 50px;
@@ -1316,6 +1395,11 @@ footer p{
 		
 	}
 
+	.text-p-about {
+	    margin: 0 8%;
+	    text-align: left;}
+
+
 	.number{
 		font-size: 31px;
 		padding: 10px;
@@ -1338,6 +1422,14 @@ footer p{
     	        box-shadow: none;
 	}
 
+	.main-applying p.prof {
+	    margin-bottom: 20px;
+	    font-size: 40px;}
+
+	.main-applying p.name {
+	    font-size: 40px;
+		font-weight: 600;}
+
 	.price span{
 		font-size: 50px;
 		text-align: center;
@@ -1355,6 +1447,22 @@ footer p{
     	-webkit-box-shadow: none;
     	        box-shadow: none;
     }
+
+     .name_price {
+    font-size: 50px;}
+
+    .name-material{
+    	font-size: 40px;}
+
+    .price_number{
+    	padding: 0;}
+
+    .price_number p{
+    	font-size: 60px;}
+
+    .price-description{
+    	font-size: 50px;
+    	line-height: 60px;}
 
 	.sertificate span{
 		font-size: 50px;
@@ -1513,9 +1621,7 @@ footer p{
 	.form-main-text{
 		font-size: 24px;
 	}
-
-
-    }
+}
 
 
 
@@ -1543,6 +1649,11 @@ footer p{
 		
 	}
 
+	.text-p-about {
+	    margin: 0 8%;
+	    text-align: left;}
+
+
 	.number{
 		font-size: 31px;
 		padding: 10px;
@@ -1565,6 +1676,14 @@ footer p{
     	        box-shadow: none;
 	}
 
+	.main-applying p.prof {
+	    margin-bottom: 20px;
+	    font-size: 40px;}
+
+	.main-applying p.name {
+	    font-size: 40px;
+		font-weight: 600;}
+
 	.price span{
 		font-size: 50px;
 		text-align: center;
@@ -1582,6 +1701,22 @@ footer p{
     	-webkit-box-shadow: none;
     	        box-shadow: none;
     }
+
+     .name_price {
+    font-size: 50px;}
+
+    .name-material{
+    	font-size: 40px;}
+
+    .price_number{
+    	padding: 0;}
+
+    .price_number p{
+    	font-size: 60px;}
+
+    .price-description{
+    	font-size: 50px;
+    	line-height: 60px;}
 
 	.sertificate span{
 		font-size: 50px;
@@ -1740,9 +1875,7 @@ footer p{
 	.form-main-text{
 		font-size: 24px;
 	}
-
-
-    }
+}
 
 @media screen and (min-width: 1920px){
 	nav{
