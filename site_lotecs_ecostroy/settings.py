@@ -28,7 +28,7 @@ import os
 SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', '7h&%w#(@y^4mc5ay*(@2r91453^8dpg%77x&40@xyud4d*90#=') # secret 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 # переводим debag в false чтобы не показвало ошибки разработки
 
 # DEBUG = bool( os.environ.get('DJANGO_DEBUG', False) )

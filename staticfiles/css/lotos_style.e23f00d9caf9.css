@@ -18,10 +18,10 @@ body{
 }
 .header{
 	background-color: #010101;
-	background-image: -webkit-gradient( linear, left top, left bottom, from(rgba(83, 87, 95, 0.72)), color-stop(30%, rgba(4, 4, 4, 0.4))),url(/static/image/ЛотексЭкострой.jpeg);
-	background-image: -webkit-linear-gradient( rgba(83, 87, 95, 0.72) 0%, rgba(4, 4, 4, 0.4) 30%),url(/static/image/ЛотексЭкострой.jpeg);
-	background-image: -o-linear-gradient( rgba(83, 87, 95, 0.72) 0%, rgba(4, 4, 4, 0.4) 30%),url(/static/image/ЛотексЭкострой.jpeg);
-	background-image: linear-gradient( rgba(83, 87, 95, 0.72) 0%, rgba(4, 4, 4, 0.4) 30%),url(/static/image/ЛотексЭкострой.jpeg);
+	background-image: -webkit-gradient( linear, left top, left bottom, from(rgba(83, 87, 95, 0.72)), color-stop(30%, rgba(4, 4, 4, 0.4))),url("/static/image/ЛотексЭкострой.a306a091c164.jpeg");
+	background-image: -webkit-linear-gradient( rgba(83, 87, 95, 0.72) 0%, rgba(4, 4, 4, 0.4) 30%),url("/static/image/ЛотексЭкострой.a306a091c164.jpeg");
+	background-image: -o-linear-gradient( rgba(83, 87, 95, 0.72) 0%, rgba(4, 4, 4, 0.4) 30%),url("/static/image/ЛотексЭкострой.a306a091c164.jpeg");
+	background-image: linear-gradient( rgba(83, 87, 95, 0.72) 0%, rgba(4, 4, 4, 0.4) 30%),url("/static/image/ЛотексЭкострой.a306a091c164.jpeg");
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -568,10 +568,10 @@ td{
     -webkit-align-items: center;
         -ms-flex-align: center;
             align-items: center;
-    background-image: -webkit-gradient( linear, left top, left bottom, from(rgba(83, 87, 95, 0.72)), color-stop(30%, rgba(4, 4, 4, 0.4))),url(/static/image/technical-perfromance-mid-loft-insulation-shutterstock_220297729-902x600.jpg);
-    background-image: -webkit-linear-gradient( rgba(83, 87, 95, 0.72) 0%, rgba(4, 4, 4, 0.4) 30%),url(/static/image/technical-perfromance-mid-loft-insulation-shutterstock_220297729-902x600.jpg);
-    background-image: -o-linear-gradient( rgba(83, 87, 95, 0.72) 0%, rgba(4, 4, 4, 0.4) 30%),url(/static/image/technical-perfromance-mid-loft-insulation-shutterstock_220297729-902x600.jpg);
-    background-image: linear-gradient( rgba(83, 87, 95, 0.72) 0%, rgba(4, 4, 4, 0.4) 30%),url(/static/image/technical-perfromance-mid-loft-insulation-shutterstock_220297729-902x600.jpg);
+    background-image: -webkit-gradient( linear, left top, left bottom, from(rgba(83, 87, 95, 0.72)), color-stop(30%, rgba(4, 4, 4, 0.4))),url("/static/image/technical-perfromance-mid-loft-insulation-shutterstock_220297729-902x600.94448ecfa272.jpg");
+    background-image: -webkit-linear-gradient( rgba(83, 87, 95, 0.72) 0%, rgba(4, 4, 4, 0.4) 30%),url("/static/image/technical-perfromance-mid-loft-insulation-shutterstock_220297729-902x600.94448ecfa272.jpg");
+    background-image: -o-linear-gradient( rgba(83, 87, 95, 0.72) 0%, rgba(4, 4, 4, 0.4) 30%),url("/static/image/technical-perfromance-mid-loft-insulation-shutterstock_220297729-902x600.94448ecfa272.jpg");
+    background-image: linear-gradient( rgba(83, 87, 95, 0.72) 0%, rgba(4, 4, 4, 0.4) 30%),url("/static/image/technical-perfromance-mid-loft-insulation-shutterstock_220297729-902x600.94448ecfa272.jpg");
 	background-size: 100%;
 	background-repeat: round;
 }
