@@ -503,9 +503,9 @@ td{
 }
 .sertificate img:hover{
 	z-index: 1;
-    -webkit-transform: scale(1.5);
-    -ms-transform: scale(1.5);
-    transform: scale(1.5);
+    -webkit-transform: scale(2.7);
+    -ms-transform: scale(2.7);
+    transform: scale(2.7);
 	-webkit-box-shadow: 15px 9px 11px 3px #010101;
 	-webkit-box-shadow: 15px 9px 11px 3px #010101;
 	box-shadow: 15px 9px 11px 3px #010101;

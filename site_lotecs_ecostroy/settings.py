@@ -28,7 +28,7 @@ import os
 SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', '7h&%w#(@y^4mc5ay*(@2r91453^8dpg%77x&40@xyud4d*90#=') # secret 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 # переводим debag в false чтобы не показвало ошибки разработки
 
 # DEBUG = bool( os.environ.get('DJANGO_DEBUG', False) )
@@ -132,7 +132,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
 EMAIL_HOST = 'smtp.yandex.ru'
 EMAIL_HOST_USER = 'lotex-ecostroy@sozvezdielotos.ru'
-EMAIL_HOST_PASSWORD = 'ecostroy010406az!' #password
+EMAIL_HOST_PASSWORD = 'ECostroy020506az!!' #password
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
