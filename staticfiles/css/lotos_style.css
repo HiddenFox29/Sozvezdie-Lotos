@@ -1926,6 +1926,77 @@ footer p{
 	}
 }
 
+@media screen and (min-width: 2560px){
+
+	nav{
+		margin: 20px 25% !important;}
+
+	.header{
+		height: 1000px;}
+
+	.header h1{
+		font-size: 65px;
+		margin-top: 50px;
+	}
+
+	.header p.creative{
+		font-size: 100px;
+	}
+
+	caption{
+		font-size: 40px !important;
+	}
+	
+	th{
+		font-size: 30px !important;
+	}
+
+	td{
+		font-size: 28px !important;
+	}
+
+
+	.main_about p.we-do{
+		font-size: 35px;
+	}
+
+	.main_about h2{
+		font-size: 40px;
+	}
+
+	.main-applying p{
+		font-size: 35px;
+	}
+	
+	.main-applying h2{
+		font-size: 40px;
+	}
+
+	.price span{
+		font-size: 35px;
+	}
+
+	.price h2{
+		font-size: 40px;
+	}
+
+	.sertificate h2{
+		font-size: 40px;
+	}
+
+	.sertificate span{
+		font-size: 35px;
+	}
+
+	.contact{
+		width: 74%
+	}
+	
+	.contact-info span {
+		font-size: 25px;}
+
+}
+
 @media screen and (min-width: 1920px){
 	nav{
 		margin: 20px 17%;}
