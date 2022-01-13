@@ -14,7 +14,7 @@ Jinja2==2.10.1
 MarkupSafe==1.1.1
 mechanize==0.4.0
 psycopg2==2.8.2
-Pillow==5.4.1
+Pillow==9.0.0
 PyAutoGUI==0.9.41
 PyGetWindow==0.0.4
 PyMsgBox==1.0.6
